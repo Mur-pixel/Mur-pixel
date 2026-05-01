@@ -67,11 +67,9 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mur-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mur-pixel&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mur-pixel&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mur-pixel&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 ### 🌱 Contribution Graph
