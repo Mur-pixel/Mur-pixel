@@ -1,14 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=378ADD¢er=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;UX+%2B+Engineering+Mindset;Learning+%7C+Building+%7C+Growing)](https://git.io/typing-svg)
 
-### 안녕하세요, 사용자 경험을 이해하는 웹 개발자 **김정민**입니다
+### 안녕하세요, 사용자 경험을 이해하는 웹 개발자 **김정민**입니다 👋
 
 교육 콘텐츠 기획·운영 경험을 바탕으로
 사용자의 학습 흐름과 서비스 구조를 고민하며 웹 서비스를 개발합니다.
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=378ADD&style=flat-square&label=Profile+Views)
-
-
-
+![](https://komarev.com/ghpvc/?username=Mur-pixel&color=378ADD&style=flat-square&label=Profile+Views)
 
 ---
 
@@ -70,8 +67,9 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mur-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mur-pixel&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mur-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mur-pixel&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 
 
@@ -91,6 +89,4 @@
 실제 서비스에서 동작하는 기능
 ```
 
-
-
-  기획자의 눈으로 문제를 발견하고, 개발자의 손으로 해결합니다.
+> 기획자의 눈으로 문제를 발견하고, 개발자의 손으로 해결합니다.
