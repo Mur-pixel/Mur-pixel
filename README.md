@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=378ADD¢er=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;UX+%2B+Engineering+Mindset;Learning+%7C+Building+%7C+Growing)](https://git.io/typing-svg)
 
-### 안녕하세요, 사용자 경험을 이해하는 웹 개발자 **김정민**입니다 👋
+### 안녕하세요, 사용자 경험을 이해하는 웹 개발자 **김정민**입니다 
 
 교육 콘텐츠 기획·운영 경험을 바탕으로
 사용자의 학습 흐름과 서비스 구조를 고민하며 웹 서비스를 개발합니다.
@@ -44,7 +44,8 @@
 
 ## 🚀 Main Project
 
-### I-Poten — AI 모의면접 및 학습 플랫폼
+### I-Poten — AI 모의면접 및 학습 플랫폼 &nbsp;[![서비스 바로가기](https://img.shields.io/badge/🌐_서비스_바로가기-i--poten.com-378ADD?style=flat-square)](https://i-poten.com)
+<img width="1859" height="924" alt="image" src="https://github.com/user-attachments/assets/8c9d0a94-b6b7-4973-961d-8bed50d84841" />
 
 > IT 개발자 취업 준비생과 주니어 개발자를 위한 학습 서비스
 > AI 모의면접 · IT 용어 학습 · 개인 단어장 · 퀴즈 기능 제공
@@ -60,21 +61,12 @@
 - Spring Boot · JPA 기반 API 개발, 예외 처리, 서비스 정책 반영
 - 학습 흐름에 맞춘 UI/UX 개선 및 MySQL 조회 구조 최적화
 
----
+**이 프로젝트에서 성장한 것**
+- 기획 경험을 바탕으로 요구사항을 직접 설계하고 코드로 구현하는 전 과정 경험
+- 프론트·백엔드를 넘나들며 데이터 흐름 전체를 이해하는 시각 확보
+- 사용자 상태 분기, 예외 처리, 서비스 정책 반영 등 실서비스 수준의 구현 경험
 
-## 📊 GitHub Stats
-
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mur-pixel&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mur-pixel&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
-### 🌱 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mur-pixel&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+> 🌐 [서비스 바로가기](https://i-poten.com) &nbsp;|&nbsp; 🔗 [Backend](https://github.com/Mur-pixel/I-Poten-Backend) &nbsp;|&nbsp; 🔗 [Frontend](https://github.com/Mur-pixel/I-Poten-Frontend)
 
 ---
 
