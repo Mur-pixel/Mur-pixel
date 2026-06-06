@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;UX+%2B+Engineering+Mindset;Learning+%7C+Building+%7C+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=378ADD&vCenter=true&width=500&lines=Full+Stack+Developer;UX+%2B+Engineering+Mindset;Learning+%7C+Building+%7C+Growing)](https://git.io/typing-svg)
 
 ---
 
@@ -6,9 +6,6 @@
 
 사용자 흐름을 고려하며  
 아이디어를 실제 서비스 기능으로 구현하는 웹 개발자입니다.
-
-기획 의도를 이해하고,  
-유지보수하기 쉬운 구조와 실제 동작하는 기능을 만드는 데 관심이 있습니다.
 
 ---
 
